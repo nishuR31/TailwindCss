@@ -4,7 +4,7 @@ Welcome to an advanced guide on integrating **Tailwind CSS** with the latest web
 
 ---
 
-  <a href="https://github.com/nishuR31/TailwindCss"><img src="https://img.shields.io/github/repo-size/nishuR31/TainwindCss?color=black&label=Repo%20Size&style=flat&logo=github&logoColor=black" alt="GitHub Repo Size"></a>
+  <a href="https://github.com/nishuR31/TailwindCss"><img src="https://img.shields.io/github/repo-size/nishuR31/TailwindCss?color=black&label=Repo%20Size&style=flat&logo=github&logoColor=black" alt="GitHub Repo Size"></a>
   
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
